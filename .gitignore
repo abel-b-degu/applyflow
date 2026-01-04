@@ -1,0 +1,20 @@
+# Python
+**/__pycache__/
+**/*.pyc
+
+# Backend
+apply_pilot_backend/venv/
+apply_pilot_backend/*.db
+apply_pilot_backend/.env
+
+# Frontend
+apply_pilot_frontend/node_modules/
+apply_pilot_frontend/dist/
+apply_pilot_frontend/.env
+
+# Editor / OS
+.vscode/
+.DS_Store
+
+# Ignore any old folder if you kept it
+_old_applyflow/
