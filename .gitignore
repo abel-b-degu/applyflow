@@ -16,5 +16,4 @@ apply_pilot_frontend/.env
 .vscode/
 .DS_Store
 
-# Ignore any old folder if you kept it
-_old_applyflow/
+
